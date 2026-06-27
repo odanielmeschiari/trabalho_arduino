@@ -21,7 +21,7 @@ O programa foi desenvolvido no Arduino IDE, utilizando a linguagem C++.
 
 **Sorteio '#':** Verifica se o valor máximo é válido e, em caso positivo, sorteia um número entre 1 e esse valor, exibindo-o no LCD e no monitor serial. Esse excerto código utiliza a função random(). Além disso, para evitar que a sequência de números seja sempre a mesma, é utilizada a função randomSeed();
 
-**Tratamento de erros:** Caso o usuário tente realizar o sorteio com um  valor inválido, é exibida uma mensagem de erro no LCD e no monitor serial;
+**Tratamento de erros:** Caso o usuário tente realizar o sorteio com um  valor inválido, é exibida uma mensagem de erro no LCD e no monitor serial.
 
 ## CIRCUITO
 <div align="center">

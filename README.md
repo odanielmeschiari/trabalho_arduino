@@ -36,7 +36,7 @@ O programa foi desenvolvido no Arduino IDE, utilizando a linguagem C++.
 </div>
 
 ## VÍDEO
-O vídeo pode ser acessado pelo seguinte link: 
+O vídeo pode ser acessado pelo seguinte link: https://youtube.com/shorts/y1XIhkqxZV0?si=j4vQEJtRoOEpAxQG
 
 ## INTEGRANTES:
 Enzo Abreu Di Santo
